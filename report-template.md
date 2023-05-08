@@ -52,7 +52,6 @@ Precision: 0.84
 Recall: 0.99
 
 ## Summary
-根据之前的所有代码，用中文和应该各回答一遍下面的问题：
 
 Summarise the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * Which one seems to perform best? How do you know it performs best?
